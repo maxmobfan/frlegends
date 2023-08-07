@@ -1,0 +1,207 @@
+{
+  "apps": [
+    {
+      "status": 1,
+      "redirect_url": "",
+      "privacy_policy_url": "",
+      "email_feedback_and_report": "",
+      "webview_cache": true,
+      "post_list_in_large_style": true,
+      "show_post_list_header": true,
+      "show_post_detail_image": true,
+      "show_post_detail_title": true,
+      "show_post_detail_category": true,
+      "show_related_posts": true,
+      "enable_rtl_mode": false,
+      "enable_exit_dialog": true,
+      "enable_app_protection": false,
+      "enable_dark_mode_as_default_theme": false,
+      "youtube_api_key": "AIzaSyCbehD6DCeDZHaGl8SUWKh1koTiHwKcvKY",
+      "base64_license_key": ""
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": 1,
+      "main_ad": "admob",
+      "backup_ad": "applovin_max",
+      "admob_banner_unit_id": "ca-app-pub-6490213601279331/2356890084",
+      "admob_interstitial_unit_id": "ca-app-pub-6490213601279331/6807588216",
+      "admob_native_unit_id": "ca-app-pub-6490213601279331/1986506378",
+      "admob_app_open_unit_id": "ca-app-pub-6490213601279331/1075598006",
+      "ad_manager_banner_unit_id": "/6499/example/banner",
+      "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+      "ad_manager_native_unit_id": "/6499/example/native",
+      "ad_manager_app_open_unit_id": "/6499/example/app-open",
+      "fan_banner_unit_id": "438057890771981_438058837438553",
+      "fan_interstitial_unit_id": "438057890771981_438059240771846",
+      "fan_native_unit_id": "438057890771981_815135109730922",
+      "startapp_app_id": "0",
+      "unity_game_id": "4725055",
+      "unity_banner_placement_id": "Banner_Android",
+      "unity_interstitial_placement_id": "Interstitial_Android",
+      "applovin_banner_unit_id": "34c8d8a58e8792be",
+      "applovin_interstitial_unit_id": "ff1a4ea084299d4e",
+      "applovin_native_manual_unit_id": "1741994aed92679b",
+      "applovin_open_ad_unit_id": "0",
+      "applovin_banner_zone_id": "0",
+      "applovin_interstitial_zone_id": "0",
+      "ironsource_app_key": "85460dcd",
+      "ironsource_banner_id": "DefaultBanner",
+      "ironsource_interstitial_id": "DefaultInterstitial",
+      "interstitial_ad_interval": 1,
+      "native_ad_index": 1,
+      "native_ad_interval": 3,
+      "native_ad_style": "medium",
+      "native_ad_post_details_position": "top",
+      "show_banner_ad_home": true,
+      "show_banner_ad_post_details": true,
+      "show_banner_ad_category_details": true,
+      "show_banner_ad_search": true,
+      "show_interstitial_ad_post_list": true,
+      "show_interstitial_ad_post_details": true,
+      "show_native_ad_post_list": true,
+      "show_native_ad_post_details": true,
+      "show_app_open_ad": true
+    }
+  ],
+  "posts": [
+     
+         {
+      "id": 1,
+      "category": "Livery FR Legend",
+      "title": "xxx1",
+      "image": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a1.jpg",
+      "description": "Livery FR Legend skin fr legends livery mod 2023",
+      "content": "Skin FR Legends Livery Mod 2023: Skin ini adalah modifikasi visual terbaru untuk FR Legends dengan livery yang keren dan modern untuk tahun 2023, memberikan tampilan yang segar pada mobil drift favorit Anda.",
+      "download": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a1.txt"
+    },
+         {
+      "id": 2,
+      "category": "Livery FR Legend",
+      "title": "Skin FR Legends Motor",
+      "image": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a2.jpg",
+      "description": "Livery FR Legend Skin FR Legends Motor",
+      "content": "Skin FR Legends Motor: Tidak hanya mobil yang dapat dimodifikasi, tapi juga motor yang hadir dalam permainan ini. Skin FR Legends Motor akan memberikan penampilan yang berbeda dan menarik pada motor Anda.",
+      "download": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a2.txt"
+    },
+         {
+      "id": 3,
+      "category": "Livery FR Legend",
+      "title": "Skin FR Legends Livery",
+      "image": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a3.jpg",
+      "description": "Livery FR Legend",
+      "content": "Skin FR Legends Livery: Koleksi berbagai livery menakjubkan untuk mobil Anda dalam permainan ini, memberikan banyak pilihan desain untuk disesuaikan sesuai selera Anda.",
+      "download": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a3.txt"
+    },
+         {
+      "id": 4,
+      "category": "Livery FR Legend",
+      "title": "Skin FR Legends Mod",
+      "image": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a4.jpg",
+      "description": "Livery FR Legend Skin FR Legends Mod",
+      "content": "Skin FR Legends Mod: Modifikasi visual lainnya untuk mobil dalam permainan, dengan desain yang menarik dan kreatif untuk meningkatkan pengalaman bermain Anda.",
+      "download": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a4.txt"
+    },
+         {
+      "id": 5,
+      "category": "Livery FR Legend",
+      "title": "Skin FR Legends Anime",
+      "image": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a5.jpg",
+      "description": "Livery FR Legend Skin FR Legends Anime",
+      "content": "Skin FR Legends Anime: Para penggemar anime akan menyukai skin ini, karena menyajikan livery dengan desain yang terinspirasi dari karakter dan dunia anime yang populer.",
+      "download": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a5.txt"
+    },
+         {
+      "id": 6,
+      "category": "Livery FR Legend",
+      "title": "Skin FR Legends Lampu Alis",
+      "image": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a6.jpg",
+      "description": "Livery FR Legend Skin FR Legends Lampu Alis",
+      "content": "Skin FR Legends Lampu Alis: Skin ini fokus pada detail kecil yang penting, seperti lampu alis mobil yang dapat diubah menjadi berbagai bentuk dan warna yang mencolok.",
+      "download": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a6.txt"
+    },
+         {
+      "id": 7,
+      "category": "Livery FR Legend",
+      "title": "Skin FR Legends All Hero",
+      "image": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a7.jpg",
+      "description": "Livery FR Legend Skin FR Legends All Hero",
+      "content": "Skin FR Legends All Hero: Hadir dengan desain yang mengagumkan, skin ini menggambarkan pahlawan dari berbagai dunia fiksi, memberikan sentuhan epik pada mobil Anda.",
+      "download": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a7.txt"
+    },
+         {
+      "id": 8,
+      "category": "Livery FR Legend",
+      "title": "Fr Legends Skin Code",
+      "image": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a8.jpg",
+      "description": "Livery FR Legend Fr Legends Skin Code",
+      "content": "FR Legends Skin Code: Jenis skin ini bisa didapatkan melalui kode khusus yang diberikan oleh pengembang permainan atau melalui acara khusus, memberikan akses ke livery eksklusif dan langka.",
+      "download": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a8.txt"
+    },
+         {
+      "id": 9,
+      "category": "Livery FR Legend",
+      "title": "FR Legends Car Skin",
+      "image": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a9.jpg",
+      "description": "Livery FR Legend FR Legends Car Skin",
+      "content": "FR Legends Car Skin: Skin klasik yang dapat memodifikasi penampilan mobil Anda, memberikan berbagai pilihan warna dan pola yang menarik.",
+      "download": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a9.txt"
+    },
+         {
+      "id": 10,
+      "category": "Livery FR Legend",
+      "title": "Skin De Carros FR Legends",
+      "image": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a10.jpg",
+      "description": "Livery FR Legend Skin De Carros FR Legends",
+      "content": "Skin De Carros FR Legends: Pilihan skin untuk mobil yang beragam, dengan berbagai desain yang mencerminkan gaya dan kepribadian pengemudi.",
+      "download": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a10.txt"
+    },
+         {
+      "id": 11,
+      "category": "Livery FR Legend",
+      "title": "Skin FR Legends Motor Drag",
+      "image": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a11.jpg",
+      "description": "Livery FR Legend Skin FR Legends Motor Drag",
+      "content": "Skin FR Legends Motor Drag: Jika Anda lebih suka adrenalin di lintasan lurus, skin ini menyajikan tampilan yang sesuai untuk motor drag dalam permainan.",
+      "download": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a11.txt"
+    },
+         {
+      "id": 12,
+      "category": "Livery FR Legend",
+      "title": "Skin FR Legends Garasi Drift",
+      "image": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a12.jpg",
+      "description": "Livery FR Legend Skin FR Legends Garasi Drift",
+      "content": "Skin FR Legends Garasi Drift: Dalam mode garasi, Anda dapat mengganti livery mobil dengan skin ini, memberikan nuansa yang lebih personal saat bersiap-siap untuk balapan.",
+      "download": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a12.txt"
+    },
+         {
+      "id": 13,
+      "category": "Livery FR Legend",
+      "title": "Download Skin FR Legends",
+      "image": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a13.jpg",
+      "description": "Livery FR Legend Download Skin FR Legends",
+      "content": "Download Skin FR Legends: Pilihan skin ini dapat diunduh dari komunitas permainan atau situs web resmi, memberikan akses ke koleksi livery yang tak terbatas.",
+      "download": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a13.txt"
+    },
+         {
+      "id": 14,
+      "category": "Livery FR Legend",
+      "title": "Skin FR Legends Da",
+      "image": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a14.jpg",
+      "description": "Livery FR Legend Skin FR Legends Da",
+      "content": "Skin FR Legends Da: Skin ini memiliki sentuhan artistik, dengan livery yang diilhami dari seni dan kreativitas.",
+      "download": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a14.txt"
+    },
+         {
+      "id": 15,
+      "category": "Livery FR Legend",
+      "title": "skin fr legends ds",
+      "image": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a15.jpg",
+      "description": "Livery FR Legend skin fr legends ds",
+      "content": "Skin FR Legends DS: Skin ini menghadirkan desain livery dengan aksen dominan warna biru dan putih, memberikan kesan elegan dan sporty pada mobil Anda.",
+      "download": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a15.txt"
+    },
+
+  ]
+}
