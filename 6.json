@@ -67,7 +67,15 @@
   ],
   "posts": [
      
-         {
+            {
+      "id": 6,
+      "category": "Livery FR Legend",
+      "title": "Skin FR Legends Lampu Alis",
+      "image": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a6.jpg",
+      "description": "Livery FR Legend Skin FR Legends Lampu Alis",
+      "content": "Skin FR Legends Lampu Alis: Skin ini fokus pada detail kecil yang penting, seperti lampu alis mobil yang dapat diubah menjadi berbagai bentuk dan warna yang mencolok.",
+      "download": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a6.txt"
+    },{
       "id": 1,
       "category": "Livery FR Legend",
       "title": "xxx1",
@@ -112,15 +120,7 @@
       "content": "Skin FR Legends Anime: Para penggemar anime akan menyukai skin ini, karena menyajikan livery dengan desain yang terinspirasi dari karakter dan dunia anime yang populer.",
       "download": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a5.txt"
     },
-         {
-      "id": 6,
-      "category": "Livery FR Legend",
-      "title": "Skin FR Legends Lampu Alis",
-      "image": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a6.jpg",
-      "description": "Livery FR Legend Skin FR Legends Lampu Alis",
-      "content": "Skin FR Legends Lampu Alis: Skin ini fokus pada detail kecil yang penting, seperti lampu alis mobil yang dapat diubah menjadi berbagai bentuk dan warna yang mencolok.",
-      "download": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a6.txt"
-    },
+      
          {
       "id": 7,
       "category": "Livery FR Legend",

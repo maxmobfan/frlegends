@@ -67,7 +67,16 @@
   ],
   "posts": [
      
+        
          {
+      "id": 13,
+      "category": "Livery FR Legend",
+      "title": "Download Skin FR Legends",
+      "image": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a13.jpg",
+      "description": "Livery FR Legend Download Skin FR Legends",
+      "content": "Download Skin FR Legends: Pilihan skin ini dapat diunduh dari komunitas permainan atau situs web resmi, memberikan akses ke koleksi livery yang tak terbatas.",
+      "download": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a13.txt"
+    }, {
       "id": 1,
       "category": "Livery FR Legend",
       "title": "xxx1",
@@ -175,16 +184,7 @@
       "content": "Skin FR Legends Garasi Drift: Dalam mode garasi, Anda dapat mengganti livery mobil dengan skin ini, memberikan nuansa yang lebih personal saat bersiap-siap untuk balapan.",
       "download": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a12.txt"
     },
-         {
-      "id": 13,
-      "category": "Livery FR Legend",
-      "title": "Download Skin FR Legends",
-      "image": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a13.jpg",
-      "description": "Livery FR Legend Download Skin FR Legends",
-      "content": "Download Skin FR Legends: Pilihan skin ini dapat diunduh dari komunitas permainan atau situs web resmi, memberikan akses ke koleksi livery yang tak terbatas.",
-      "download": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a13.txt"
-    },
-         {
+    {
       "id": 14,
       "category": "Livery FR Legend",
       "title": "Skin FR Legends Da",

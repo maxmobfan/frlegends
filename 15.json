@@ -67,7 +67,16 @@
   ],
   "posts": [
      
+       ,
          {
+      "id": 15,
+      "category": "Livery FR Legend",
+      "title": "skin fr legends ds",
+      "image": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a15.jpg",
+      "description": "Livery FR Legend skin fr legends ds",
+      "content": "Skin FR Legends DS: Skin ini menghadirkan desain livery dengan aksen dominan warna biru dan putih, memberikan kesan elegan dan sporty pada mobil Anda.",
+      "download": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a15.txt"
+    },  {
       "id": 1,
       "category": "Livery FR Legend",
       "title": "xxx1",
@@ -192,15 +201,6 @@
       "description": "Livery FR Legend Skin FR Legends Da",
       "content": "Skin FR Legends Da: Skin ini memiliki sentuhan artistik, dengan livery yang diilhami dari seni dan kreativitas.",
       "download": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a14.txt"
-    },
-         {
-      "id": 15,
-      "category": "Livery FR Legend",
-      "title": "skin fr legends ds",
-      "image": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a15.jpg",
-      "description": "Livery FR Legend skin fr legends ds",
-      "content": "Skin FR Legends DS: Skin ini menghadirkan desain livery dengan aksen dominan warna biru dan putih, memberikan kesan elegan dan sporty pada mobil Anda.",
-      "download": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a15.txt"
     }
 
   ]

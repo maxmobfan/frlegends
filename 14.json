@@ -66,15 +66,14 @@
     }
   ],
   "posts": [
-     
-         {
-      "id": 1,
+          {
+      "id": 14,
       "category": "Livery FR Legend",
-      "title": "xxx1",
-      "image": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a1.jpg",
-      "description": "Livery FR Legend skin fr legends livery mod 2023",
-      "content": "Skin FR Legends Livery Mod 2023: Skin ini adalah modifikasi visual terbaru untuk FR Legends dengan livery yang keren dan modern untuk tahun 2023, memberikan tampilan yang segar pada mobil drift favorit Anda.",
-      "download": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a1.txt"
+      "title": "Skin FR Legends Da",
+      "image": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a14.jpg",
+      "description": "Livery FR Legend Skin FR Legends Da",
+      "content": "Skin FR Legends Da: Skin ini memiliki sentuhan artistik, dengan livery yang diilhami dari seni dan kreativitas.",
+      "download": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a14.txt"
     },
          {
       "id": 2,
@@ -184,15 +183,7 @@
       "content": "Download Skin FR Legends: Pilihan skin ini dapat diunduh dari komunitas permainan atau situs web resmi, memberikan akses ke koleksi livery yang tak terbatas.",
       "download": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a13.txt"
     },
-         {
-      "id": 14,
-      "category": "Livery FR Legend",
-      "title": "Skin FR Legends Da",
-      "image": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a14.jpg",
-      "description": "Livery FR Legend Skin FR Legends Da",
-      "content": "Skin FR Legends Da: Skin ini memiliki sentuhan artistik, dengan livery yang diilhami dari seni dan kreativitas.",
-      "download": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a14.txt"
-    },
+    
          {
       "id": 15,
       "category": "Livery FR Legend",

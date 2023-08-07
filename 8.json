@@ -67,14 +67,14 @@
   ],
   "posts": [
      
-         {
-      "id": 1,
+          {
+      "id": 8,
       "category": "Livery FR Legend",
-      "title": "xxx1",
-      "image": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a1.jpg",
-      "description": "Livery FR Legend skin fr legends livery mod 2023",
-      "content": "Skin FR Legends Livery Mod 2023: Skin ini adalah modifikasi visual terbaru untuk FR Legends dengan livery yang keren dan modern untuk tahun 2023, memberikan tampilan yang segar pada mobil drift favorit Anda.",
-      "download": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a1.txt"
+      "title": "Fr Legends Skin Code",
+      "image": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a8.jpg",
+      "description": "Livery FR Legend Fr Legends Skin Code",
+      "content": "FR Legends Skin Code: Jenis skin ini bisa didapatkan melalui kode khusus yang diberikan oleh pengembang permainan atau melalui acara khusus, memberikan akses ke livery eksklusif dan langka.",
+      "download": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a8.txt"
     },
          {
       "id": 2,
@@ -130,15 +130,7 @@
       "content": "Skin FR Legends All Hero: Hadir dengan desain yang mengagumkan, skin ini menggambarkan pahlawan dari berbagai dunia fiksi, memberikan sentuhan epik pada mobil Anda.",
       "download": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a7.txt"
     },
-         {
-      "id": 8,
-      "category": "Livery FR Legend",
-      "title": "Fr Legends Skin Code",
-      "image": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a8.jpg",
-      "description": "Livery FR Legend Fr Legends Skin Code",
-      "content": "FR Legends Skin Code: Jenis skin ini bisa didapatkan melalui kode khusus yang diberikan oleh pengembang permainan atau melalui acara khusus, memberikan akses ke livery eksklusif dan langka.",
-      "download": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a8.txt"
-    },
+      
          {
       "id": 9,
       "category": "Livery FR Legend",

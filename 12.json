@@ -68,13 +68,13 @@
   "posts": [
      
          {
-      "id": 1,
+      "id": 12,
       "category": "Livery FR Legend",
-      "title": "xxx1",
-      "image": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a1.jpg",
-      "description": "Livery FR Legend skin fr legends livery mod 2023",
-      "content": "Skin FR Legends Livery Mod 2023: Skin ini adalah modifikasi visual terbaru untuk FR Legends dengan livery yang keren dan modern untuk tahun 2023, memberikan tampilan yang segar pada mobil drift favorit Anda.",
-      "download": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a1.txt"
+      "title": "Skin FR Legends Garasi Drift",
+      "image": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a12.jpg",
+      "description": "Livery FR Legend Skin FR Legends Garasi Drift",
+      "content": "Skin FR Legends Garasi Drift: Dalam mode garasi, Anda dapat mengganti livery mobil dengan skin ini, memberikan nuansa yang lebih personal saat bersiap-siap untuk balapan.",
+      "download": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a12.txt"
     },
          {
       "id": 2,
@@ -166,15 +166,7 @@
       "content": "Skin FR Legends Motor Drag: Jika Anda lebih suka adrenalin di lintasan lurus, skin ini menyajikan tampilan yang sesuai untuk motor drag dalam permainan.",
       "download": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a11.txt"
     },
-         {
-      "id": 12,
-      "category": "Livery FR Legend",
-      "title": "Skin FR Legends Garasi Drift",
-      "image": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a12.jpg",
-      "description": "Livery FR Legend Skin FR Legends Garasi Drift",
-      "content": "Skin FR Legends Garasi Drift: Dalam mode garasi, Anda dapat mengganti livery mobil dengan skin ini, memberikan nuansa yang lebih personal saat bersiap-siap untuk balapan.",
-      "download": "https://raw.githubusercontent.com/maxmobfan/frlegends/main/a12.txt"
-    },
+       
          {
       "id": 13,
       "category": "Livery FR Legend",
